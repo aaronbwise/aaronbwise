@@ -51,6 +51,6 @@ software engineering fundamentals sharp alongside the domain work.
 
 | | |
 |---|---|
-| 🌐 **Consulting** | [a3di.dev](https://www.a3di.dev) — data services for humanitarian & development orgs |
+| 🌐 **Consulting** | [a3di.dev](https://www.a3di.dev) |
 | 📄 **Full CV** | [aaronbwise.com](https://www.aaronbwise.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/aaronbwise](https://www.linkedin.com/in/aaronbwise/) |
