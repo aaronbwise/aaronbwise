@@ -54,3 +54,11 @@ software engineering fundamentals sharp alongside the domain work.
 | 🌐 **Consulting** | [a3di.dev](https://www.a3di.dev) |
 | 📄 **Full CV** | [aaronbwise.com](https://www.aaronbwise.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/aaronbwise](https://www.linkedin.com/in/aaronbwise/) |
+
+
+---
+
+### GitHub Activity
+## GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronbwise&show_icons=true&count_private=true)
