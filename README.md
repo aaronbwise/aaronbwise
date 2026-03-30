@@ -60,4 +60,4 @@ software engineering fundamentals sharp alongside the domain work.
 
 ### GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronbwise&show_icons=true&count_private=true&cache_seconds=1800)
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronbwise)](https://github.com/aaronbwise/github-readme-stats)
