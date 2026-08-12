@@ -1,8 +1,8 @@
 ## Hey, I'm Aaron 👋
 
-I build **data pipelines and statistical analysis systems for public health and international development** — reproducible, configuration-driven workflows that ingest, harmonise, and analyse survey, administrative, and clinical research data in **Python, R, and Stata**.
+I build **data pipelines and statistical analysis systems for public health and international development**: reproducible, configuration-driven workflows that ingest, harmonise, and analyse survey, administrative, and clinical research data in **Python, R, and Stata**.
 
-By day I build and maintain the data infrastructure behind longitudinal clinical research at the **University of Florida** — automated REDCap extraction tooling, federal data-submission pipelines, and standing data-quality audit layers. I also consult through [**A3DI**](https://www.a3di.dev), helping UN agencies and NGOs turn messy programme data into scalable, maintainable, production-ready systems — work spanning food security, nutrition, and social protection across more than a dozen countries in Asia and Africa.
+By day I build and maintain the data infrastructure behind longitudinal clinical research at the **University of Florida**: automated REDCap extraction tooling, federal data-submission pipelines, and standing data-quality audit layers. I also consult through [**A3DI**](https://www.a3di.dev), helping UN agencies and NGOs turn messy programme data into scalable, maintainable, production-ready systems, with work spanning food security, nutrition, and social protection across more than a dozen countries in Asia and Africa.
 
 ---
 
@@ -32,7 +32,7 @@ Automated quality checks for UNICEF JME — **70% of surveys auto-cleared** with
 Multi-source food consumption analysis (Namibia NHIES) — revealed a **10× regional spread** in nutrient intake to inform national fortification policy.<br>
 [`code`](https://github.com/aaronbwise/NHIES_analysis) · `Python` · `Survey Analysis` · `Policy`
 
-*My clinical research data work at UF lives in institutional and private repositories — happy to talk through the architecture.*
+*My clinical research data work at UF lives in institutional and private repositories; happy to talk through the architecture.*
 
 ---
 
